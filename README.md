@@ -27,3 +27,8 @@ Despite premium services, Elizium Hotels experienced a consistent decline in rev
 - Highlighted underperforming **cities** and **room types**  
 - Recommended **platform strategy adjustments** to improve conversions  
 - Enabled **optimization of pricing and marketing spend** based on insights
+
+- ## 📊 Dashboard
+-
+
+![WhatsApp Image 2025-07-30 at 16 44 15_a806e413](https://github.com/user-attachments/assets/a83c57f1-e10d-4b1e-8f98-c85f7f86c2f4)
